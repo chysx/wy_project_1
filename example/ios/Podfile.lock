@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - wy_project_1 (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - wy_project_1 (from `.symlinks/plugins/wy_project_1/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  wy_project_1:
+    :path: ".symlinks/plugins/wy_project_1/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  wy_project_1: f96194407345578ce51ed6acb74a6855ae98e8bb
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.2
