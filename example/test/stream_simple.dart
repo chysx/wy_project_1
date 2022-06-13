@@ -1,7 +1,7 @@
 import 'dart:async';
 
 Future<void> main() async {
-  print("111");
+  print("666");
   createStreamByController();
   print("222");
   await Future.delayed(const Duration(seconds: 8));
