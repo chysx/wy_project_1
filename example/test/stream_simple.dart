@@ -5,7 +5,7 @@ import 'package:flutter/widgets.dart';
 Future<void> main() async {
   debugPrint("666");
   createStreamByController();
-  print("222");
+  debugPrint("222");
   await Future.delayed(const Duration(seconds: 8));
   debugPrint("333");
 
