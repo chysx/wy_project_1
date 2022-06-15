@@ -7,7 +7,7 @@ Future<void> main() async {
   createStreamByController();
   debugPrint("222");
   await Future.delayed(const Duration(seconds: 8));
-  debugPrint("333");
+  print("333");
 
 }
 
